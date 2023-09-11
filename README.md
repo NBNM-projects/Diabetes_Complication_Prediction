@@ -29,17 +29,18 @@ Additional criteria (20%): Including presentation skills, solution creativity, a
 Code Structure
 The project contains scripts for three different models tackling various aspects of the challenge:
 
-Diabetic Retinopathy Detection: A deep learning model implemented using TensorFlow and TensorFlow Hub. The script contains data preprocessing, model creation, training, and evaluation steps. (Refer to the code section 1)
+Diabetic Retinopathy Detection: A deep learning model implemented using TensorFlow and TensorFlow Hub. The script contains data preprocessing, model creation, training, and evaluation steps.
 
-Diabetic Foot Ulcer Classification: Utilizes EfficientNetB3 and OpenCV for image processing and classification. It includes data augmentation, model training, and evaluation. (Refer to the code section 2)
+Diabetic Foot Ulcer Classification: Utilizes EfficientNetB3 and OpenCV for image processing and classification. It includes data augmentation, model training, and evaluation.
 
-Cardiovascular Risk Prediction: Implemented using XGBoost, RandomForest, and KNeighbors classifiers. It includes data preprocessing, model training, and feature importance visualization. (Refer to the code section 3)
+Cardiovascular Risk Prediction: Implemented using XGBoost, RandomForest, and KNeighbors classifiers. It includes data preprocessing, model training, and feature importance visualization.
 
-Installation & Usage
-Instructions on how to install and use your tool will go here.
+Installation & Usage:
 
-Contributors
-Your name/team members' names will go here.
+
+Contributors:
+Naor bokobza
+and all my wonderful team
 
 Acknowledgements
 Special thanks to the mentors and organizers of the hackathon for their guidance and support.
